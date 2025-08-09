@@ -1,23 +1,27 @@
 <template>
   <div id="app">
     <Header />
-    <Hero />
-    <Timeline />
-    <Footer />
+    <main class="main-content">
+      <div class="container">
+        <div class="content-wrapper">
+          <MainContent />
+        </div>
+      </div>
+    </main>
   </div>
 </template>
 
 <script setup lang="ts">
 import Header from './components/Header.vue'
-import Hero from './components/Hero.vue'
-import Timeline from './components/Timeline.vue'
-import Footer from './components/Footer.vue'
+import MainContent from './components/MainContent.vue'
 </script>
 
 <style scoped>
-#app {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+.main-content {
+  padding: 2rem 0;
+}
+
+.content-wrapper {
+  background: white;
 }
 </style>

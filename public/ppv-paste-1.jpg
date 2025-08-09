@@ -1,0 +1,602 @@
+<!doctype html>
+<!-- BGTFW Version: 2.7.1 -->
+<html lang="en-US" class='no-bgtfw no-js'>
+<head>
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8">
+	<title>Not Found, Error 404</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<meta name="robots" content="noindex,follow" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Not Found, Error 404" />
+<meta property="og:site_name" content="" />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="https://plantpv.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="https://plantpv.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/plantpv.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://plantpv.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wc-gallery-style-css' href='https://plantpv.com/wp-content/plugins/boldgrid-gallery/includes/css/style.css?ver=1.55' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-gallery-popup-style-css' href='https://plantpv.com/wp-content/plugins/boldgrid-gallery/includes/css/magnific-popup.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-gallery-flexslider-style-css' href='https://plantpv.com/wp-content/plugins/boldgrid-gallery/includes/vendors/flexslider/flexslider.css?ver=2.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-gallery-owlcarousel-style-css' href='https://plantpv.com/wp-content/plugins/boldgrid-gallery/includes/vendors/owlcarousel/assets/owl.carousel.css?ver=2.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-gallery-owlcarousel-theme-style-css' href='https://plantpv.com/wp-content/plugins/boldgrid-gallery/includes/vendors/owlcarousel/assets/owl.theme.default.css?ver=2.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='crio-premium-css' href='https://plantpv.com/wp-content/plugins/crio-premium/public/css/crio-premium-public.css?ver=1.3.0' type='text/css' media='all' />
+<style id='bgtfw-body-link-inline-css' type='text/css'>
+.main a {color: var(--color-1);text-decoration: none;}.main a:hover, .main a:focus {color: rgba(52,122,183,1);text-decoration: underline;}.page-header-wrapper a {color: var(--color-1);text-decoration: none;}.page-header-wrapper a:hover, .page-header-wrapper a:focus {color: rgba(52,122,183,1);text-decoration: underline;}.mce-content-body a {color: var(--color-1);text-decoration: none;}.mce-content-body a:hover, .mce-content-body a:focus {color: rgba(52,122,183,1);text-decoration: underline;}.template-header a {color: var(--color-1);text-decoration: none;}.template-header a:hover, .template-header a:focus {color: rgba(52,122,183,1);text-decoration: underline;}.boldgrid-shortcode .widget a:not( .btn ) {color: var(--color-1);text-decoration: none;}.boldgrid-shortcode .widget a:not( .btn ):hover, .boldgrid-shortcode .widget a:not( .btn ):focus {color: rgba(52,122,183,1);text-decoration: underline;}.boldgrid-section.mega-menu-item .boldgrid-shortcode .widget a:not( .btn ) {color: var(--color-1);text-decoration: none;}.boldgrid-section.mega-menu-item .boldgrid-shortcode .widget a:not( .btn ):hover, .boldgrid-section.mega-menu-item .boldgrid-shortcode .widget a:not( .btn ):focus {color: rgba(52,122,183,1);text-decoration: underline;}.boldgrid-section.mega-menu-item .boldgrid-shortcode .widget a:not( .btn ) > * {color: var(--color-1);text-decoration: none;}.boldgrid-section.mega-menu-item .boldgrid-shortcode .widget a:not( .btn ) > *:hover, .boldgrid-section.mega-menu-item .boldgrid-shortcode .widget a:not( .btn ) > *:focus {color: rgba(52,122,183,1);text-decoration: underline;}
+.main a {color: var(--color-1);text-decoration: none;}.main a:hover, .main a:focus {color: rgba(52,122,183,1);text-decoration: underline;}.page-header-wrapper a {color: var(--color-1);text-decoration: none;}.page-header-wrapper a:hover, .page-header-wrapper a:focus {color: rgba(52,122,183,1);text-decoration: underline;}.mce-content-body a {color: var(--color-1);text-decoration: none;}.mce-content-body a:hover, .mce-content-body a:focus {color: rgba(52,122,183,1);text-decoration: underline;}.template-header a {color: var(--color-1);text-decoration: none;}.template-header a:hover, .template-header a:focus {color: rgba(52,122,183,1);text-decoration: underline;}.boldgrid-shortcode .widget a:not( .btn ) {color: var(--color-1);text-decoration: none;}.boldgrid-shortcode .widget a:not( .btn ):hover, .boldgrid-shortcode .widget a:not( .btn ):focus {color: rgba(52,122,183,1);text-decoration: underline;}.boldgrid-section.mega-menu-item .boldgrid-shortcode .widget a:not( .btn ) {color: var(--color-1);text-decoration: none;}.boldgrid-section.mega-menu-item .boldgrid-shortcode .widget a:not( .btn ):hover, .boldgrid-section.mega-menu-item .boldgrid-shortcode .widget a:not( .btn ):focus {color: rgba(52,122,183,1);text-decoration: underline;}.boldgrid-section.mega-menu-item .boldgrid-shortcode .widget a:not( .btn ) > * {color: var(--color-1);text-decoration: none;}.boldgrid-section.mega-menu-item .boldgrid-shortcode .widget a:not( .btn ) > *:hover, .boldgrid-section.mega-menu-item .boldgrid-shortcode .widget a:not( .btn ) > *:focus {color: rgba(52,122,183,1);text-decoration: underline;}
+</style>
+<style id='sticky-header-display-inline-css' type='text/css'>
+:not(BGTFW){}
+</style>
+<link rel='stylesheet' id='font-awesome-css' href='https://plantpv.com/wp-content/themes/crio/inc/boldgrid-theme-framework/assets/css/font-awesome/font-awesome.min.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='icomoon-css' href='https://plantpv.com/wp-content/themes/crio/inc/boldgrid-theme-framework/assets/css/icomoon/style.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-styles-css' href='https://plantpv.com/wp-content/themes/crio/inc/boldgrid-theme-framework/assets/css/bootstrap/bootstrap.min.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='boldgrid-theme-framework-css' href='https://plantpv.com/wp-content/themes/crio/inc/boldgrid-theme-framework/assets/css/boldgrid-theme-framework.min.css?ver=2.7.1' type='text/css' media='all' />
+<style id='boldgrid-theme-framework-inline-css' type='text/css'>
+:root {--light-text:#ffffff;--dark-text:#333333;--color-1:rgb(51, 122, 183);--color-1-text-contrast:var(--light-text);--color-2:rgb(51, 51, 51);--color-2-text-contrast:var(--light-text);--color-3:rgb(255, 255, 255);--color-3-text-contrast:var(--dark-text);--color-4:rgb(51, 122, 183);--color-4-text-contrast:var(--light-text);--color-5:rgb(51, 51, 51);--color-5-text-contrast:var(--light-text);--color-neutral:rgb(255, 255, 255);--color-neutral-text-contrast:var(--dark-text);}.color-1-text-default, .color1-text-default{color: var(--color-1-text-contrast);}.color-1-text-contrast, .color1-text-contrast, .color-1-text-contrast-hover:hover, .color1-text-contrast-hover:hover, .color-1-text-contrast-hover:focus, .color1-text-contrast-hover:focus { color: var(--color-1-text-contrast) !important;}.color-1-color, .color1-color{color: var(--color-1) !important;}.color-1-background, .color1-background{background: var(--color-1) !important;}.color-1-background-color, .color1-background-color{background-color: var(--color-1) !important;}.color-1-border-color, .color1-border-color{border-color: var(--color-1) !important;}.color-2-text-default, .color2-text-default{color: var(--color-2-text-contrast);}.color-2-text-contrast, .color2-text-contrast, .color-2-text-contrast-hover:hover, .color2-text-contrast-hover:hover, .color-2-text-contrast-hover:focus, .color2-text-contrast-hover:focus { color: var(--color-2-text-contrast) !important;}.color-2-color, .color2-color{color: var(--color-2) !important;}.color-2-background, .color2-background{background: var(--color-2) !important;}.color-2-background-color, .color2-background-color{background-color: var(--color-2) !important;}.color-2-border-color, .color2-border-color{border-color: var(--color-2) !important;}.color-3-text-default, .color3-text-default{color: var(--color-3-text-contrast);}.color-3-text-contrast, .color3-text-contrast, .color-3-text-contrast-hover:hover, .color3-text-contrast-hover:hover, .color-3-text-contrast-hover:focus, .color3-text-contrast-hover:focus { color: var(--color-3-text-contrast) !important;}.color-3-color, .color3-color{color: var(--color-3) !important;}.color-3-background, .color3-background{background: var(--color-3) !important;}.color-3-background-color, .color3-background-color{background-color: var(--color-3) !important;}.color-3-border-color, .color3-border-color{border-color: var(--color-3) !important;}.color-4-text-default, .color4-text-default{color: var(--color-4-text-contrast);}.color-4-text-contrast, .color4-text-contrast, .color-4-text-contrast-hover:hover, .color4-text-contrast-hover:hover, .color-4-text-contrast-hover:focus, .color4-text-contrast-hover:focus { color: var(--color-4-text-contrast) !important;}.color-4-color, .color4-color{color: var(--color-4) !important;}.color-4-background, .color4-background{background: var(--color-4) !important;}.color-4-background-color, .color4-background-color{background-color: var(--color-4) !important;}.color-4-border-color, .color4-border-color{border-color: var(--color-4) !important;}.color-5-text-default, .color5-text-default{color: var(--color-5-text-contrast);}.color-5-text-contrast, .color5-text-contrast, .color-5-text-contrast-hover:hover, .color5-text-contrast-hover:hover, .color-5-text-contrast-hover:focus, .color5-text-contrast-hover:focus { color: var(--color-5-text-contrast) !important;}.color-5-color, .color5-color{color: var(--color-5) !important;}.color-5-background, .color5-background{background: var(--color-5) !important;}.color-5-background-color, .color5-background-color{background-color: var(--color-5) !important;}.color-5-border-color, .color5-border-color{border-color: var(--color-5) !important;}.color-neutral-text-default, .colorneutral-text-default{color: var(--color-neutral-text-contrast);}.color-neutral-text-contrast, .colorneutral-text-contrast, .color-neutral-text-contrast-hover:hover, .colorneutral-text-contrast-hover:hover, .color-neutral-text-contrast-hover:focus, .colorneutral-text-contrast-hover:focus { color: var(--color-neutral-text-contrast) !important;}.color-neutral-color, .colorneutral-color{color: var(--color-neutral) !important;}.color-neutral-background, .colorneutral-background{background: var(--color-neutral) !important;}.color-neutral-background-color, .colorneutral-background-color{background-color: var(--color-neutral) !important;}.color-neutral-border-color, .colorneutral-border-color{border-color: var(--color-neutral) !important;}
+</style>
+<link rel='stylesheet' id='bgtfw-smartmenus-css' href='https://plantpv.com/wp-content/themes/crio/inc/boldgrid-theme-framework/assets/css/smartmenus/sm-core-css.css?ver=2.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bgtfw-hamburgers-css' href='https://plantpv.com/wp-content/themes/crio/inc/boldgrid-theme-framework/assets/css/hamburgers/hamburgers.min.css?ver=2.7.1' type='text/css' media='all' />
+<style id='bgtfw-hamburgers-inline-css' type='text/css'>
+.main-menu-btn .hamburger-inner,.main-menu-btn .hamburger-inner:before,.main-menu-btn .hamburger-inner:after {background-color: rgb(51,122,183);}.social-menu-btn .hamburger-inner,.social-menu-btn .hamburger-inner:before,.social-menu-btn .hamburger-inner:after {background-color: rgb(51,122,183);}.sticky-main-menu-btn .hamburger-inner,.sticky-main-menu-btn .hamburger-inner:before,.sticky-main-menu-btn .hamburger-inner:after {background-color: rgb(23,190,187);}
+</style>
+<link rel='stylesheet' id='hover.css-css' href='https://plantpv.com/wp-content/themes/crio/inc/boldgrid-theme-framework/assets/css/hover.css/hover-min.css?ver=2.7.1' type='text/css' media='all' />
+<style id='hover-main-inline-css' type='text/css'>
+#main-menu .hvr-grow a{box-shadow:0 0 1px transparent}#main-menu .hvr-shrink a{box-shadow:0 0 1px transparent}#main-menu .hvr-pulse a{box-shadow:0 0 1px transparent}#main-menu .hvr-pulse-grow a{box-shadow:0 0 1px transparent}#main-menu .hvr-pulse-shrink a{box-shadow:0 0 1px transparent}#main-menu .hvr-push a{box-shadow:0 0 1px transparent}#main-menu .hvr-pop a{box-shadow:0 0 1px transparent}#main-menu .hvr-bounce-in a{box-shadow:0 0 1px transparent}#main-menu .hvr-bounce-out a{box-shadow:0 0 1px transparent}#main-menu .hvr-rotate a{box-shadow:0 0 1px transparent}#main-menu .hvr-grow-rotate a{box-shadow:0 0 1px transparent}#main-menu .hvr-float a{box-shadow:0 0 1px transparent}#main-menu .hvr-sink a{box-shadow:0 0 1px transparent}#main-menu .hvr-bob a{box-shadow:0 0 1px transparent}#main-menu .hvr-hang a{box-shadow:0 0 1px transparent}#main-menu .hvr-skew a{box-shadow:0 0 1px transparent}#main-menu .hvr-skew-forward a{box-shadow:0 0 1px transparent}#main-menu .hvr-skew-backward a{box-shadow:0 0 1px transparent}#main-menu .hvr-wobble-vertical a{box-shadow:0 0 1px transparent}#main-menu .hvr-wobble-horizontal a{box-shadow:0 0 1px transparent}#main-menu .hvr-wobble-to-bottom-right a{box-shadow:0 0 1px transparent}#main-menu .hvr-wobble-to-top-right a{box-shadow:0 0 1px transparent}#main-menu .hvr-wobble-top a{box-shadow:0 0 1px transparent}#main-menu .hvr-wobble-bottom a{box-shadow:0 0 1px transparent}#main-menu .hvr-wobble-skew a{box-shadow:0 0 1px transparent}#main-menu .hvr-buzz a{box-shadow:0 0 1px transparent}#main-menu .hvr-buzz-out a{box-shadow:0 0 1px transparent}#main-menu .hvr-forward a{box-shadow:0 0 1px transparent}#main-menu .hvr-backward a{box-shadow:0 0 1px transparent}#main-menu .hvr-fade a{box-shadow:0 0 1px transparent}#main-menu .hvr-fade a:active,#main-menu .hvr-fade a:focus,#main-menu .hvr-fade a:hover{background-color:var(--color-1);color:var(--color-3)}#main-menu .hvr-back-pulse a{box-shadow:0 0 1px transparent}#main-menu .hvr-back-pulse a:active,#main-menu .hvr-back-pulse a:focus,#main-menu .hvr-back-pulse a:hover{background-color:var(--color-1);color:var(--color-3)}#main-menu .hvr-sweep-to-right a{box-shadow:0 0 1px transparent}#main-menu .hvr-sweep-to-right a:before{background-color:var(--color-1)}#main-menu .hvr-sweep-to-right a:active,#main-menu .hvr-sweep-to-right a:focus,#main-menu .hvr-sweep-to-right a:hover{color:var(--color-3)}#main-menu .hvr-sweep-to-left a{box-shadow:0 0 1px transparent}#main-menu .hvr-sweep-to-left a:before{background-color:var(--color-1)}#main-menu .hvr-sweep-to-left a:active,#main-menu .hvr-sweep-to-left a:focus,#main-menu .hvr-sweep-to-left a:hover{color:var(--color-3)}#main-menu .hvr-sweep-to-bottom a{box-shadow:0 0 1px transparent}#main-menu .hvr-sweep-to-bottom a:before{background-color:var(--color-1)}#main-menu .hvr-sweep-to-bottom a:active,#main-menu .hvr-sweep-to-bottom a:focus,#main-menu .hvr-sweep-to-bottom a:hover{color:var(--color-3)}#main-menu .hvr-sweep-to-top a{box-shadow:0 0 1px transparent}#main-menu .hvr-sweep-to-top a:before{background-color:var(--color-1)}#main-menu .hvr-sweep-to-top a:active,#main-menu .hvr-sweep-to-top a:focus,#main-menu .hvr-sweep-to-top a:hover{color:var(--color-3)}#main-menu .hvr-bounce-to-right a{box-shadow:0 0 1px transparent}#main-menu .hvr-bounce-to-right a:before{background-color:var(--color-1)}#main-menu .hvr-bounce-to-right a:active,#main-menu .hvr-bounce-to-right a:focus,#main-menu .hvr-bounce-to-right a:hover{color:var(--color-3)}#main-menu .hvr-bounce-to-left a{box-shadow:0 0 1px transparent}#main-menu .hvr-bounce-to-left a:before{background-color:var(--color-1)}#main-menu .hvr-bounce-to-left a:active,#main-menu .hvr-bounce-to-left a:focus,#main-menu .hvr-bounce-to-left a:hover{color:var(--color-3)}#main-menu .hvr-bounce-to-bottom a{box-shadow:0 0 1px transparent}#main-menu .hvr-bounce-to-bottom a:before{background-color:var(--color-1)}#main-menu .hvr-bounce-to-bottom a:active,#main-menu .hvr-bounce-to-bottom a:focus,#main-menu .hvr-bounce-to-bottom a:hover{color:var(--color-3)}#main-menu .hvr-bounce-to-top a{box-shadow:0 0 1px transparent}#main-menu .hvr-bounce-to-top a:before{background-color:var(--color-1)}#main-menu .hvr-bounce-to-top a:active,#main-menu .hvr-bounce-to-top a:focus,#main-menu .hvr-bounce-to-top a:hover{color:var(--color-3)}#main-menu .hvr-radial-out a{box-shadow:0 0 1px transparent;background-color:var(--color-3)}#main-menu .hvr-radial-out a:before{background-color:var(--color-1)}#main-menu .hvr-radial-out a:active,#main-menu .hvr-radial-out a:focus,#main-menu .hvr-radial-out a:hover{color:var(--color-3)}#main-menu .hvr-radial-in a{box-shadow:0 0 1px transparent;background-color:var(--color-1)}#main-menu .hvr-radial-in a:before{background-color:var(--color-3)}#main-menu .hvr-radial-in a:active,#main-menu .hvr-radial-in a:focus,#main-menu .hvr-radial-in a:hover{color:var(--color-3)}#main-menu .hvr-rectangle-in a{box-shadow:0 0 1px transparent;background-color:var(--color-1)}#main-menu .hvr-rectangle-in a:before{background-color:var(--color-3)}#main-menu .hvr-rectangle-in a:active,#main-menu .hvr-rectangle-in a:focus,#main-menu .hvr-rectangle-in a:hover{color:var(--color-3)}#main-menu .hvr-rectangle-out a{box-shadow:0 0 1px transparent;background-color:var(--color-3)}#main-menu .hvr-rectangle-out a:before{background-color:var(--color-1)}#main-menu .hvr-rectangle-out a:active,#main-menu .hvr-rectangle-out a:focus,#main-menu .hvr-rectangle-out a:hover{color:var(--color-3)}#main-menu .hvr-shutter-in-horizontal a{box-shadow:0 0 1px transparent;background-color:var(--color-1)}#main-menu .hvr-shutter-in-horizontal a:before{background-color:var(--color-3)}#main-menu .hvr-shutter-in-horizontal a:active,#main-menu .hvr-shutter-in-horizontal a:focus,#main-menu .hvr-shutter-in-horizontal a:hover{color:var(--color-3)}#main-menu .hvr-shutter-out-horizontal a{box-shadow:0 0 1px transparent;background-color:var(--color-3)}#main-menu .hvr-shutter-out-horizontal a:before{background-color:var(--color-1)}#main-menu .hvr-shutter-out-horizontal a:active,#main-menu .hvr-shutter-out-horizontal a:focus,#main-menu .hvr-shutter-out-horizontal a:hover{color:var(--color-3)}#main-menu .hvr-shutter-in-vertical a{box-shadow:0 0 1px transparent;background-color:var(--color-1)}#main-menu .hvr-shutter-in-vertical a:before{background-color:var(--color-3)}#main-menu .hvr-shutter-in-vertical a:active,#main-menu .hvr-shutter-in-vertical a:focus,#main-menu .hvr-shutter-in-vertical a:hover{color:var(--color-3)}#main-menu .hvr-shutter-out-vertical a{box-shadow:0 0 1px transparent;background-color:var(--color-3)}#main-menu .hvr-shutter-out-vertical a:before{background-color:var(--color-1)}#main-menu .hvr-shutter-out-vertical a:active,#main-menu .hvr-shutter-out-vertical a:focus,#main-menu .hvr-shutter-out-vertical a:hover{color:var(--color-3)}#main-menu .hvr-border-fade a{box-shadow:0 0 1px transparent;box-shadow:inset 0 0 0 4px var(--color-3),0 0 1px transparent}#main-menu .hvr-border-fade a:active,#main-menu .hvr-border-fade a:focus,#main-menu .hvr-border-fade a:hover{box-shadow:inset 0 0 0 4px var(--color-1),0 0 1px transparent}#main-menu .hvr-hollow a{box-shadow:0 0 1px transparent;box-shadow:inset 0 0 0 4px var(--color-3),0 0 1px transparent}#main-menu .hvr-trim a{box-shadow:0 0 1px transparent}#main-menu .hvr-trim a:before{border-color:var(--color-3)}#main-menu .hvr-ripple-out a{box-shadow:0 0 1px transparent}#main-menu .hvr-ripple-out a:before{border-color:var(--color-3)}#main-menu .hvr-ripple-in a{box-shadow:0 0 1px transparent}#main-menu .hvr-ripple-in a:before{border-color:var(--color-3)}#main-menu .hvr-outline-out a{box-shadow:0 0 1px transparent}#main-menu .hvr-outline-out a:before{border-color:var(--color-3)}#main-menu .hvr-outline-in a{box-shadow:0 0 1px transparent}#main-menu .hvr-outline-in a:before{border-color:var(--color-3)}#main-menu .hvr-round-corners a{box-shadow:0 0 1px transparent}#main-menu .hvr-underline-from-left a{box-shadow:0 0 1px transparent}#main-menu .hvr-underline-from-left a:before{background-color:var(--color-1)}#main-menu .hvr-underline-from-center a{box-shadow:0 0 1px transparent}#main-menu .hvr-underline-from-center a:before{background-color:var(--color-1)}#main-menu .hvr-underline-from-right a{box-shadow:0 0 1px transparent}#main-menu .hvr-underline-from-right a:before{background-color:var(--color-1)}#main-menu .hvr-overline-from-left a{box-shadow:0 0 1px transparent}#main-menu .hvr-overline-from-left a:before{background-color:var(--color-1)}#main-menu .hvr-overline-from-center a{box-shadow:0 0 1px transparent}#main-menu .hvr-overline-from-center a:before{background-color:var(--color-1)}#main-menu .hvr-overline-from-right a{box-shadow:0 0 1px transparent}#main-menu .hvr-overline-from-right a:before{background-color:var(--color-1)}#main-menu .hvr-reveal a{box-shadow:0 0 1px transparent}#main-menu .hvr-reveal a:before{border:0 solid var(--color-1)}#main-menu .hvr-underline-reveal a{box-shadow:0 0 1px transparent}#main-menu .hvr-underline-reveal a:before{background-color:var(--color-1)}#main-menu .hvr-overline-reveal a{box-shadow:0 0 1px transparent}#main-menu .hvr-overline-reveal a:before{background-color:var(--color-1)}#main-menu .hvr-glow a{box-shadow:0 0 1px transparent}#main-menu .hvr-glow a:active,#main-menu .hvr-glow a:focus,#main-menu .hvr-glow a:hover{box-shadow:0 0 8px rgba(0,0,0,.6)}#main-menu .hvr-shadow a{box-shadow:0 0 1px transparent}#main-menu .hvr-shadow a:active,#main-menu .hvr-shadow a:focus,#main-menu .hvr-shadow a:hover{box-shadow:0 10px 10px -10px rgba(0,0,0,.5)}#main-menu .hvr-grow-shadow a{box-shadow:0 0 1px transparent}#main-menu .hvr-grow-shadow a:active,#main-menu .hvr-grow-shadow a:focus,#main-menu .hvr-grow-shadow a:hover{box-shadow:0 10px 10px -10px rgba(0,0,0,.5)}#main-menu .hvr-box-shadow-outset a{box-shadow:0 0 1px transparent}#main-menu .hvr-box-shadow-outset a:active,#main-menu .hvr-box-shadow-outset a:focus,#main-menu .hvr-box-shadow-outset a:hover{box-shadow:2px 2px 2px rgba(0,0,0,.6)}#main-menu .hvr-box-shadow-inset a{box-shadow:0 0 1px transparent;box-shadow:inset 0 0 0 rgba(0,0,0,.6),0 0 1px transparent}#main-menu .hvr-box-shadow-inset a:active,#main-menu .hvr-box-shadow-inset a:focus,#main-menu .hvr-box-shadow-inset a:hover{box-shadow:inset 2px 2px 2px rgba(0,0,0,.6),0 0 1px transparent}#main-menu .hvr-float-shadow a{box-shadow:0 0 1px transparent}#main-menu .hvr-shadow-radial a{box-shadow:0 0 1px transparent}#main-menu .hvr-bubble-top a{box-shadow:0 0 1px transparent}#main-menu .hvr-bubble-top a:before{border-color:transparent transparent var(--color-3)}#main-menu .hvr-bubble-right a{box-shadow:0 0 1px transparent}#main-menu .hvr-bubble-right a:before{border-color:transparent transparent transparent var(--color-3)}#main-menu .hvr-bubble-bottom a{box-shadow:0 0 1px transparent}#main-menu .hvr-bubble-bottom a:before{border-color:var(--color-3) transparent transparent}#main-menu .hvr-bubble-left a{box-shadow:0 0 1px transparent}#main-menu .hvr-bubble-left a:before{border-color:transparent var(--color-3) transparent transparent}#main-menu .hvr-bubble-float-top a{box-shadow:0 0 1px transparent}#main-menu .hvr-bubble-float-top a:before{border-color:transparent transparent var(--color-3)}#main-menu .hvr-bubble-float-right a{box-shadow:0 0 1px transparent}#main-menu .hvr-bubble-float-right a:before{border-color:transparent transparent transparent var(--color-3)}#main-menu .hvr-bubble-float-bottom a{box-shadow:0 0 1px transparent}#main-menu .hvr-bubble-float-bottom a:before{border-color:var(--color-3) transparent transparent}#main-menu .hvr-bubble-float-left a{box-shadow:0 0 1px transparent}#main-menu .hvr-bubble-float-left a:before{border-color:transparent var(--color-3) transparent transparent}#main-menu .hvr-icon-back a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-forward a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-down a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-up a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-spin a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-drop a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-fade a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-fade a:active .hvr-icon a,#main-menu .hvr-icon-fade a:focus .hvr-icon a,#main-menu .hvr-icon-fade a:hover .hvr-icon a{color:#0f9e5e}#main-menu .hvr-icon-float-away a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-sink-away a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-grow a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-shrink a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-pulse a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-pulse-grow a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-pulse-shrink a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-push a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-pop a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-bounce a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-rotate a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-grow-rotate a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-float a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-sink a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-bob a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-hang a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-wobble-horizontal a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-wobble-vertical a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-buzz a{box-shadow:0 0 1px transparent}#main-menu .hvr-icon-buzz-out a{box-shadow:0 0 1px transparent}#main-menu .hvr-curl-top-left a{box-shadow:0 0 1px transparent}#main-menu .hvr-curl-top-left a:before{background-color:var(--color-3);box-shadow:1px 1px 1px rgba(0,0,0,.4)}#main-menu .hvr-curl-top-right a{box-shadow:0 0 1px transparent}#main-menu .hvr-curl-top-right a:before{background-color:var(--color-3);box-shadow:-1px 1px 1px rgba(0,0,0,.4)}#main-menu .hvr-curl-bottom-right a{box-shadow:0 0 1px transparent}#main-menu .hvr-curl-bottom-right a:before{background-color:var(--color-3);box-shadow:-1px -1px 1px rgba(0,0,0,.4)}#main-menu .hvr-curl-bottom-left a{box-shadow:0 0 1px transparent}#main-menu .hvr-curl-bottom-left a:before{background-color:var(--color-3);box-shadow:1px -1px 1px rgba(0,0,0,.4)}
+</style>
+<style id='active-link-color-main-inline-css' type='text/css'>
+#main-menu .current-menu-item > a,#main-menu .current-menu-ancestor > a,#main-menu .current-menu-parent > a { color: var(--color-1); }
+</style>
+<style id='menu-colors-main-inline-css' type='text/css'>
+.header-left #main-menu, .header-right #main-menu { background-color: rgba(38,38,38,1); }@media (min-width: 768px) {#main-menu.sm-clean ul {background-color: rgb(38,38,38);}#main-menu.sm-clean ul a, #main-menu.sm-clean ul a:hover, #main-menu.sm-clean ul a:focus, #main-menu.sm-clean ul a:active, #main-menu.sm-clean ul a.highlighted, #main-menu.sm-clean span.scroll-up, #main-menu.sm-clean span.scroll-down, #main-menu.sm-clean span.scroll-up:hover, #main-menu.sm-clean span.scroll-down:hover { background-color:rgba(38,38,38,0.4);}#main-menu.sm-clean ul { border: 1px solid rgba(38,38,38,0.4);}#main-menu.sm-clean > li > ul:before, #main-menu.sm-clean > li > ul:after { border-color: transparent transparent rgb(38,38,38) transparent;}}
+</style>
+<style id='hover-social-inline-css' type='text/css'>
+#social-menu .hvr-grow a{box-shadow:0 0 1px transparent}#social-menu .hvr-shrink a{box-shadow:0 0 1px transparent}#social-menu .hvr-pulse a{box-shadow:0 0 1px transparent}#social-menu .hvr-pulse-grow a{box-shadow:0 0 1px transparent}#social-menu .hvr-pulse-shrink a{box-shadow:0 0 1px transparent}#social-menu .hvr-push a{box-shadow:0 0 1px transparent}#social-menu .hvr-pop a{box-shadow:0 0 1px transparent}#social-menu .hvr-bounce-in a{box-shadow:0 0 1px transparent}#social-menu .hvr-bounce-out a{box-shadow:0 0 1px transparent}#social-menu .hvr-rotate a{box-shadow:0 0 1px transparent}#social-menu .hvr-grow-rotate a{box-shadow:0 0 1px transparent}#social-menu .hvr-float a{box-shadow:0 0 1px transparent}#social-menu .hvr-sink a{box-shadow:0 0 1px transparent}#social-menu .hvr-bob a{box-shadow:0 0 1px transparent}#social-menu .hvr-hang a{box-shadow:0 0 1px transparent}#social-menu .hvr-skew a{box-shadow:0 0 1px transparent}#social-menu .hvr-skew-forward a{box-shadow:0 0 1px transparent}#social-menu .hvr-skew-backward a{box-shadow:0 0 1px transparent}#social-menu .hvr-wobble-vertical a{box-shadow:0 0 1px transparent}#social-menu .hvr-wobble-horizontal a{box-shadow:0 0 1px transparent}#social-menu .hvr-wobble-to-bottom-right a{box-shadow:0 0 1px transparent}#social-menu .hvr-wobble-to-top-right a{box-shadow:0 0 1px transparent}#social-menu .hvr-wobble-top a{box-shadow:0 0 1px transparent}#social-menu .hvr-wobble-bottom a{box-shadow:0 0 1px transparent}#social-menu .hvr-wobble-skew a{box-shadow:0 0 1px transparent}#social-menu .hvr-buzz a{box-shadow:0 0 1px transparent}#social-menu .hvr-buzz-out a{box-shadow:0 0 1px transparent}#social-menu .hvr-forward a{box-shadow:0 0 1px transparent}#social-menu .hvr-backward a{box-shadow:0 0 1px transparent}#social-menu .hvr-fade a{box-shadow:0 0 1px transparent}#social-menu .hvr-fade a:active,#social-menu .hvr-fade a:focus,#social-menu .hvr-fade a:hover{background-color:var(--color-3);color:var(--color-3)}#social-menu .hvr-back-pulse a{box-shadow:0 0 1px transparent}#social-menu .hvr-back-pulse a:active,#social-menu .hvr-back-pulse a:focus,#social-menu .hvr-back-pulse a:hover{background-color:var(--color-3);color:var(--color-3)}#social-menu .hvr-sweep-to-right a{box-shadow:0 0 1px transparent}#social-menu .hvr-sweep-to-right a:before{background-color:var(--color-3)}#social-menu .hvr-sweep-to-right a:active,#social-menu .hvr-sweep-to-right a:focus,#social-menu .hvr-sweep-to-right a:hover{color:var(--color-3)}#social-menu .hvr-sweep-to-left a{box-shadow:0 0 1px transparent}#social-menu .hvr-sweep-to-left a:before{background-color:var(--color-3)}#social-menu .hvr-sweep-to-left a:active,#social-menu .hvr-sweep-to-left a:focus,#social-menu .hvr-sweep-to-left a:hover{color:var(--color-3)}#social-menu .hvr-sweep-to-bottom a{box-shadow:0 0 1px transparent}#social-menu .hvr-sweep-to-bottom a:before{background-color:var(--color-3)}#social-menu .hvr-sweep-to-bottom a:active,#social-menu .hvr-sweep-to-bottom a:focus,#social-menu .hvr-sweep-to-bottom a:hover{color:var(--color-3)}#social-menu .hvr-sweep-to-top a{box-shadow:0 0 1px transparent}#social-menu .hvr-sweep-to-top a:before{background-color:var(--color-3)}#social-menu .hvr-sweep-to-top a:active,#social-menu .hvr-sweep-to-top a:focus,#social-menu .hvr-sweep-to-top a:hover{color:var(--color-3)}#social-menu .hvr-bounce-to-right a{box-shadow:0 0 1px transparent}#social-menu .hvr-bounce-to-right a:before{background-color:var(--color-3)}#social-menu .hvr-bounce-to-right a:active,#social-menu .hvr-bounce-to-right a:focus,#social-menu .hvr-bounce-to-right a:hover{color:var(--color-3)}#social-menu .hvr-bounce-to-left a{box-shadow:0 0 1px transparent}#social-menu .hvr-bounce-to-left a:before{background-color:var(--color-3)}#social-menu .hvr-bounce-to-left a:active,#social-menu .hvr-bounce-to-left a:focus,#social-menu .hvr-bounce-to-left a:hover{color:var(--color-3)}#social-menu .hvr-bounce-to-bottom a{box-shadow:0 0 1px transparent}#social-menu .hvr-bounce-to-bottom a:before{background-color:var(--color-3)}#social-menu .hvr-bounce-to-bottom a:active,#social-menu .hvr-bounce-to-bottom a:focus,#social-menu .hvr-bounce-to-bottom a:hover{color:var(--color-3)}#social-menu .hvr-bounce-to-top a{box-shadow:0 0 1px transparent}#social-menu .hvr-bounce-to-top a:before{background-color:var(--color-3)}#social-menu .hvr-bounce-to-top a:active,#social-menu .hvr-bounce-to-top a:focus,#social-menu .hvr-bounce-to-top a:hover{color:var(--color-3)}#social-menu .hvr-radial-out a{box-shadow:0 0 1px transparent;background-color:var(--color-3)}#social-menu .hvr-radial-out a:before{background-color:var(--color-3)}#social-menu .hvr-radial-out a:active,#social-menu .hvr-radial-out a:focus,#social-menu .hvr-radial-out a:hover{color:var(--color-3)}#social-menu .hvr-radial-in a{box-shadow:0 0 1px transparent;background-color:var(--color-3)}#social-menu .hvr-radial-in a:before{background-color:var(--color-3)}#social-menu .hvr-radial-in a:active,#social-menu .hvr-radial-in a:focus,#social-menu .hvr-radial-in a:hover{color:var(--color-3)}#social-menu .hvr-rectangle-in a{box-shadow:0 0 1px transparent;background-color:var(--color-3)}#social-menu .hvr-rectangle-in a:before{background-color:var(--color-3)}#social-menu .hvr-rectangle-in a:active,#social-menu .hvr-rectangle-in a:focus,#social-menu .hvr-rectangle-in a:hover{color:var(--color-3)}#social-menu .hvr-rectangle-out a{box-shadow:0 0 1px transparent;background-color:var(--color-3)}#social-menu .hvr-rectangle-out a:before{background-color:var(--color-3)}#social-menu .hvr-rectangle-out a:active,#social-menu .hvr-rectangle-out a:focus,#social-menu .hvr-rectangle-out a:hover{color:var(--color-3)}#social-menu .hvr-shutter-in-horizontal a{box-shadow:0 0 1px transparent;background-color:var(--color-3)}#social-menu .hvr-shutter-in-horizontal a:before{background-color:var(--color-3)}#social-menu .hvr-shutter-in-horizontal a:active,#social-menu .hvr-shutter-in-horizontal a:focus,#social-menu .hvr-shutter-in-horizontal a:hover{color:var(--color-3)}#social-menu .hvr-shutter-out-horizontal a{box-shadow:0 0 1px transparent;background-color:var(--color-3)}#social-menu .hvr-shutter-out-horizontal a:before{background-color:var(--color-3)}#social-menu .hvr-shutter-out-horizontal a:active,#social-menu .hvr-shutter-out-horizontal a:focus,#social-menu .hvr-shutter-out-horizontal a:hover{color:var(--color-3)}#social-menu .hvr-shutter-in-vertical a{box-shadow:0 0 1px transparent;background-color:var(--color-3)}#social-menu .hvr-shutter-in-vertical a:before{background-color:var(--color-3)}#social-menu .hvr-shutter-in-vertical a:active,#social-menu .hvr-shutter-in-vertical a:focus,#social-menu .hvr-shutter-in-vertical a:hover{color:var(--color-3)}#social-menu .hvr-shutter-out-vertical a{box-shadow:0 0 1px transparent;background-color:var(--color-3)}#social-menu .hvr-shutter-out-vertical a:before{background-color:var(--color-3)}#social-menu .hvr-shutter-out-vertical a:active,#social-menu .hvr-shutter-out-vertical a:focus,#social-menu .hvr-shutter-out-vertical a:hover{color:var(--color-3)}#social-menu .hvr-border-fade a{box-shadow:0 0 1px transparent;box-shadow:inset 0 0 0 4px var(--color-3),0 0 1px transparent}#social-menu .hvr-border-fade a:active,#social-menu .hvr-border-fade a:focus,#social-menu .hvr-border-fade a:hover{box-shadow:inset 0 0 0 4px var(--color-3),0 0 1px transparent}#social-menu .hvr-hollow a{box-shadow:0 0 1px transparent;box-shadow:inset 0 0 0 4px var(--color-3),0 0 1px transparent}#social-menu .hvr-trim a{box-shadow:0 0 1px transparent}#social-menu .hvr-trim a:before{border-color:var(--color-3)}#social-menu .hvr-ripple-out a{box-shadow:0 0 1px transparent}#social-menu .hvr-ripple-out a:before{border-color:var(--color-3)}#social-menu .hvr-ripple-in a{box-shadow:0 0 1px transparent}#social-menu .hvr-ripple-in a:before{border-color:var(--color-3)}#social-menu .hvr-outline-out a{box-shadow:0 0 1px transparent}#social-menu .hvr-outline-out a:before{border-color:var(--color-3)}#social-menu .hvr-outline-in a{box-shadow:0 0 1px transparent}#social-menu .hvr-outline-in a:before{border-color:var(--color-3)}#social-menu .hvr-round-corners a{box-shadow:0 0 1px transparent}#social-menu .hvr-underline-from-left a{box-shadow:0 0 1px transparent}#social-menu .hvr-underline-from-left a:before{background-color:var(--color-3)}#social-menu .hvr-underline-from-center a{box-shadow:0 0 1px transparent}#social-menu .hvr-underline-from-center a:before{background-color:var(--color-3)}#social-menu .hvr-underline-from-right a{box-shadow:0 0 1px transparent}#social-menu .hvr-underline-from-right a:before{background-color:var(--color-3)}#social-menu .hvr-overline-from-left a{box-shadow:0 0 1px transparent}#social-menu .hvr-overline-from-left a:before{background-color:var(--color-3)}#social-menu .hvr-overline-from-center a{box-shadow:0 0 1px transparent}#social-menu .hvr-overline-from-center a:before{background-color:var(--color-3)}#social-menu .hvr-overline-from-right a{box-shadow:0 0 1px transparent}#social-menu .hvr-overline-from-right a:before{background-color:var(--color-3)}#social-menu .hvr-reveal a{box-shadow:0 0 1px transparent}#social-menu .hvr-reveal a:before{border:0 solid var(--color-3)}#social-menu .hvr-underline-reveal a{box-shadow:0 0 1px transparent}#social-menu .hvr-underline-reveal a:before{background-color:var(--color-3)}#social-menu .hvr-overline-reveal a{box-shadow:0 0 1px transparent}#social-menu .hvr-overline-reveal a:before{background-color:var(--color-3)}#social-menu .hvr-glow a{box-shadow:0 0 1px transparent}#social-menu .hvr-glow a:active,#social-menu .hvr-glow a:focus,#social-menu .hvr-glow a:hover{box-shadow:0 0 8px rgba(0,0,0,.6)}#social-menu .hvr-shadow a{box-shadow:0 0 1px transparent}#social-menu .hvr-shadow a:active,#social-menu .hvr-shadow a:focus,#social-menu .hvr-shadow a:hover{box-shadow:0 10px 10px -10px rgba(0,0,0,.5)}#social-menu .hvr-grow-shadow a{box-shadow:0 0 1px transparent}#social-menu .hvr-grow-shadow a:active,#social-menu .hvr-grow-shadow a:focus,#social-menu .hvr-grow-shadow a:hover{box-shadow:0 10px 10px -10px rgba(0,0,0,.5)}#social-menu .hvr-box-shadow-outset a{box-shadow:0 0 1px transparent}#social-menu .hvr-box-shadow-outset a:active,#social-menu .hvr-box-shadow-outset a:focus,#social-menu .hvr-box-shadow-outset a:hover{box-shadow:2px 2px 2px rgba(0,0,0,.6)}#social-menu .hvr-box-shadow-inset a{box-shadow:0 0 1px transparent;box-shadow:inset 0 0 0 rgba(0,0,0,.6),0 0 1px transparent}#social-menu .hvr-box-shadow-inset a:active,#social-menu .hvr-box-shadow-inset a:focus,#social-menu .hvr-box-shadow-inset a:hover{box-shadow:inset 2px 2px 2px rgba(0,0,0,.6),0 0 1px transparent}#social-menu .hvr-float-shadow a{box-shadow:0 0 1px transparent}#social-menu .hvr-shadow-radial a{box-shadow:0 0 1px transparent}#social-menu .hvr-bubble-top a{box-shadow:0 0 1px transparent}#social-menu .hvr-bubble-top a:before{border-color:transparent transparent var(--color-3)}#social-menu .hvr-bubble-right a{box-shadow:0 0 1px transparent}#social-menu .hvr-bubble-right a:before{border-color:transparent transparent transparent var(--color-3)}#social-menu .hvr-bubble-bottom a{box-shadow:0 0 1px transparent}#social-menu .hvr-bubble-bottom a:before{border-color:var(--color-3) transparent transparent}#social-menu .hvr-bubble-left a{box-shadow:0 0 1px transparent}#social-menu .hvr-bubble-left a:before{border-color:transparent var(--color-3) transparent transparent}#social-menu .hvr-bubble-float-top a{box-shadow:0 0 1px transparent}#social-menu .hvr-bubble-float-top a:before{border-color:transparent transparent var(--color-3)}#social-menu .hvr-bubble-float-right a{box-shadow:0 0 1px transparent}#social-menu .hvr-bubble-float-right a:before{border-color:transparent transparent transparent var(--color-3)}#social-menu .hvr-bubble-float-bottom a{box-shadow:0 0 1px transparent}#social-menu .hvr-bubble-float-bottom a:before{border-color:var(--color-3) transparent transparent}#social-menu .hvr-bubble-float-left a{box-shadow:0 0 1px transparent}#social-menu .hvr-bubble-float-left a:before{border-color:transparent var(--color-3) transparent transparent}#social-menu .hvr-icon-back a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-forward a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-down a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-up a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-spin a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-drop a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-fade a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-fade a:active .hvr-icon a,#social-menu .hvr-icon-fade a:focus .hvr-icon a,#social-menu .hvr-icon-fade a:hover .hvr-icon a{color:#0f9e5e}#social-menu .hvr-icon-float-away a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-sink-away a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-grow a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-shrink a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-pulse a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-pulse-grow a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-pulse-shrink a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-push a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-pop a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-bounce a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-rotate a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-grow-rotate a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-float a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-sink a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-bob a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-hang a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-wobble-horizontal a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-wobble-vertical a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-buzz a{box-shadow:0 0 1px transparent}#social-menu .hvr-icon-buzz-out a{box-shadow:0 0 1px transparent}#social-menu .hvr-curl-top-left a{box-shadow:0 0 1px transparent}#social-menu .hvr-curl-top-left a:before{background-color:var(--color-3);box-shadow:1px 1px 1px rgba(0,0,0,.4)}#social-menu .hvr-curl-top-right a{box-shadow:0 0 1px transparent}#social-menu .hvr-curl-top-right a:before{background-color:var(--color-3);box-shadow:-1px 1px 1px rgba(0,0,0,.4)}#social-menu .hvr-curl-bottom-right a{box-shadow:0 0 1px transparent}#social-menu .hvr-curl-bottom-right a:before{background-color:var(--color-3);box-shadow:-1px -1px 1px rgba(0,0,0,.4)}#social-menu .hvr-curl-bottom-left a{box-shadow:0 0 1px transparent}#social-menu .hvr-curl-bottom-left a:before{background-color:var(--color-3);box-shadow:1px -1px 1px rgba(0,0,0,.4)}
+</style>
+<style id='active-link-color-social-inline-css' type='text/css'>
+#social-menu .current-menu-item > a,#social-menu .current-menu-ancestor > a,#social-menu .current-menu-parent > a { color: var(--color-4); }
+</style>
+<style id='menu-colors-social-inline-css' type='text/css'>
+.header-left #social-menu, .header-right #social-menu { background-color: rgba(38,38,38,0.4); }@media (min-width: 768px) {#social-menu.sm-clean ul {background-color: rgb(38,38,38);}#social-menu.sm-clean ul a, #social-menu.sm-clean ul a:hover, #social-menu.sm-clean ul a:focus, #social-menu.sm-clean ul a:active, #social-menu.sm-clean ul a.highlighted, #social-menu.sm-clean span.scroll-up, #social-menu.sm-clean span.scroll-down, #social-menu.sm-clean span.scroll-up:hover, #social-menu.sm-clean span.scroll-down:hover { background-color:rgba(38,38,38,0.4);}#social-menu.sm-clean ul { border: 1px solid rgba(38,38,38,0.4);}#social-menu.sm-clean > li > ul:before, #social-menu.sm-clean > li > ul:after { border-color: transparent transparent rgb(38,38,38) transparent;}}
+</style>
+<style id='hover-sticky-main-inline-css' type='text/css'>
+#sticky-main-menu .hvr-grow a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-shrink a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-pulse a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-pulse-grow a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-pulse-shrink a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-push a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-pop a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-bounce-in a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-bounce-out a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-rotate a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-grow-rotate a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-float a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-sink a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-bob a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-hang a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-skew a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-skew-forward a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-skew-backward a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-wobble-vertical a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-wobble-horizontal a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-wobble-to-bottom-right a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-wobble-to-top-right a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-wobble-top a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-wobble-bottom a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-wobble-skew a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-buzz a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-buzz-out a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-forward a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-backward a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-fade a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-fade a:active,#sticky-main-menu .hvr-fade a:focus,#sticky-main-menu .hvr-fade a:hover{background-color:var(--color-1);color:var(--color-3)}#sticky-main-menu .hvr-back-pulse a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-back-pulse a:active,#sticky-main-menu .hvr-back-pulse a:focus,#sticky-main-menu .hvr-back-pulse a:hover{background-color:var(--color-1);color:var(--color-3)}#sticky-main-menu .hvr-sweep-to-right a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-sweep-to-right a:before{background-color:var(--color-1)}#sticky-main-menu .hvr-sweep-to-right a:active,#sticky-main-menu .hvr-sweep-to-right a:focus,#sticky-main-menu .hvr-sweep-to-right a:hover{color:var(--color-3)}#sticky-main-menu .hvr-sweep-to-left a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-sweep-to-left a:before{background-color:var(--color-1)}#sticky-main-menu .hvr-sweep-to-left a:active,#sticky-main-menu .hvr-sweep-to-left a:focus,#sticky-main-menu .hvr-sweep-to-left a:hover{color:var(--color-3)}#sticky-main-menu .hvr-sweep-to-bottom a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-sweep-to-bottom a:before{background-color:var(--color-1)}#sticky-main-menu .hvr-sweep-to-bottom a:active,#sticky-main-menu .hvr-sweep-to-bottom a:focus,#sticky-main-menu .hvr-sweep-to-bottom a:hover{color:var(--color-3)}#sticky-main-menu .hvr-sweep-to-top a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-sweep-to-top a:before{background-color:var(--color-1)}#sticky-main-menu .hvr-sweep-to-top a:active,#sticky-main-menu .hvr-sweep-to-top a:focus,#sticky-main-menu .hvr-sweep-to-top a:hover{color:var(--color-3)}#sticky-main-menu .hvr-bounce-to-right a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-bounce-to-right a:before{background-color:var(--color-1)}#sticky-main-menu .hvr-bounce-to-right a:active,#sticky-main-menu .hvr-bounce-to-right a:focus,#sticky-main-menu .hvr-bounce-to-right a:hover{color:var(--color-3)}#sticky-main-menu .hvr-bounce-to-left a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-bounce-to-left a:before{background-color:var(--color-1)}#sticky-main-menu .hvr-bounce-to-left a:active,#sticky-main-menu .hvr-bounce-to-left a:focus,#sticky-main-menu .hvr-bounce-to-left a:hover{color:var(--color-3)}#sticky-main-menu .hvr-bounce-to-bottom a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-bounce-to-bottom a:before{background-color:var(--color-1)}#sticky-main-menu .hvr-bounce-to-bottom a:active,#sticky-main-menu .hvr-bounce-to-bottom a:focus,#sticky-main-menu .hvr-bounce-to-bottom a:hover{color:var(--color-3)}#sticky-main-menu .hvr-bounce-to-top a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-bounce-to-top a:before{background-color:var(--color-1)}#sticky-main-menu .hvr-bounce-to-top a:active,#sticky-main-menu .hvr-bounce-to-top a:focus,#sticky-main-menu .hvr-bounce-to-top a:hover{color:var(--color-3)}#sticky-main-menu .hvr-radial-out a{box-shadow:0 0 1px transparent;background-color:var(--color-3)}#sticky-main-menu .hvr-radial-out a:before{background-color:var(--color-1)}#sticky-main-menu .hvr-radial-out a:active,#sticky-main-menu .hvr-radial-out a:focus,#sticky-main-menu .hvr-radial-out a:hover{color:var(--color-3)}#sticky-main-menu .hvr-radial-in a{box-shadow:0 0 1px transparent;background-color:var(--color-1)}#sticky-main-menu .hvr-radial-in a:before{background-color:var(--color-3)}#sticky-main-menu .hvr-radial-in a:active,#sticky-main-menu .hvr-radial-in a:focus,#sticky-main-menu .hvr-radial-in a:hover{color:var(--color-3)}#sticky-main-menu .hvr-rectangle-in a{box-shadow:0 0 1px transparent;background-color:var(--color-1)}#sticky-main-menu .hvr-rectangle-in a:before{background-color:var(--color-3)}#sticky-main-menu .hvr-rectangle-in a:active,#sticky-main-menu .hvr-rectangle-in a:focus,#sticky-main-menu .hvr-rectangle-in a:hover{color:var(--color-3)}#sticky-main-menu .hvr-rectangle-out a{box-shadow:0 0 1px transparent;background-color:var(--color-3)}#sticky-main-menu .hvr-rectangle-out a:before{background-color:var(--color-1)}#sticky-main-menu .hvr-rectangle-out a:active,#sticky-main-menu .hvr-rectangle-out a:focus,#sticky-main-menu .hvr-rectangle-out a:hover{color:var(--color-3)}#sticky-main-menu .hvr-shutter-in-horizontal a{box-shadow:0 0 1px transparent;background-color:var(--color-1)}#sticky-main-menu .hvr-shutter-in-horizontal a:before{background-color:var(--color-3)}#sticky-main-menu .hvr-shutter-in-horizontal a:active,#sticky-main-menu .hvr-shutter-in-horizontal a:focus,#sticky-main-menu .hvr-shutter-in-horizontal a:hover{color:var(--color-3)}#sticky-main-menu .hvr-shutter-out-horizontal a{box-shadow:0 0 1px transparent;background-color:var(--color-3)}#sticky-main-menu .hvr-shutter-out-horizontal a:before{background-color:var(--color-1)}#sticky-main-menu .hvr-shutter-out-horizontal a:active,#sticky-main-menu .hvr-shutter-out-horizontal a:focus,#sticky-main-menu .hvr-shutter-out-horizontal a:hover{color:var(--color-3)}#sticky-main-menu .hvr-shutter-in-vertical a{box-shadow:0 0 1px transparent;background-color:var(--color-1)}#sticky-main-menu .hvr-shutter-in-vertical a:before{background-color:var(--color-3)}#sticky-main-menu .hvr-shutter-in-vertical a:active,#sticky-main-menu .hvr-shutter-in-vertical a:focus,#sticky-main-menu .hvr-shutter-in-vertical a:hover{color:var(--color-3)}#sticky-main-menu .hvr-shutter-out-vertical a{box-shadow:0 0 1px transparent;background-color:var(--color-3)}#sticky-main-menu .hvr-shutter-out-vertical a:before{background-color:var(--color-1)}#sticky-main-menu .hvr-shutter-out-vertical a:active,#sticky-main-menu .hvr-shutter-out-vertical a:focus,#sticky-main-menu .hvr-shutter-out-vertical a:hover{color:var(--color-3)}#sticky-main-menu .hvr-border-fade a{box-shadow:0 0 1px transparent;box-shadow:inset 0 0 0 4px var(--color-3),0 0 1px transparent}#sticky-main-menu .hvr-border-fade a:active,#sticky-main-menu .hvr-border-fade a:focus,#sticky-main-menu .hvr-border-fade a:hover{box-shadow:inset 0 0 0 4px var(--color-1),0 0 1px transparent}#sticky-main-menu .hvr-hollow a{box-shadow:0 0 1px transparent;box-shadow:inset 0 0 0 4px var(--color-3),0 0 1px transparent}#sticky-main-menu .hvr-trim a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-trim a:before{border-color:var(--color-3)}#sticky-main-menu .hvr-ripple-out a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-ripple-out a:before{border-color:var(--color-3)}#sticky-main-menu .hvr-ripple-in a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-ripple-in a:before{border-color:var(--color-3)}#sticky-main-menu .hvr-outline-out a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-outline-out a:before{border-color:var(--color-3)}#sticky-main-menu .hvr-outline-in a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-outline-in a:before{border-color:var(--color-3)}#sticky-main-menu .hvr-round-corners a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-underline-from-left a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-underline-from-left a:before{background-color:var(--color-1)}#sticky-main-menu .hvr-underline-from-center a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-underline-from-center a:before{background-color:var(--color-1)}#sticky-main-menu .hvr-underline-from-right a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-underline-from-right a:before{background-color:var(--color-1)}#sticky-main-menu .hvr-overline-from-left a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-overline-from-left a:before{background-color:var(--color-1)}#sticky-main-menu .hvr-overline-from-center a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-overline-from-center a:before{background-color:var(--color-1)}#sticky-main-menu .hvr-overline-from-right a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-overline-from-right a:before{background-color:var(--color-1)}#sticky-main-menu .hvr-reveal a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-reveal a:before{border:0 solid var(--color-1)}#sticky-main-menu .hvr-underline-reveal a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-underline-reveal a:before{background-color:var(--color-1)}#sticky-main-menu .hvr-overline-reveal a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-overline-reveal a:before{background-color:var(--color-1)}#sticky-main-menu .hvr-glow a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-glow a:active,#sticky-main-menu .hvr-glow a:focus,#sticky-main-menu .hvr-glow a:hover{box-shadow:0 0 8px rgba(0,0,0,.6)}#sticky-main-menu .hvr-shadow a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-shadow a:active,#sticky-main-menu .hvr-shadow a:focus,#sticky-main-menu .hvr-shadow a:hover{box-shadow:0 10px 10px -10px rgba(0,0,0,.5)}#sticky-main-menu .hvr-grow-shadow a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-grow-shadow a:active,#sticky-main-menu .hvr-grow-shadow a:focus,#sticky-main-menu .hvr-grow-shadow a:hover{box-shadow:0 10px 10px -10px rgba(0,0,0,.5)}#sticky-main-menu .hvr-box-shadow-outset a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-box-shadow-outset a:active,#sticky-main-menu .hvr-box-shadow-outset a:focus,#sticky-main-menu .hvr-box-shadow-outset a:hover{box-shadow:2px 2px 2px rgba(0,0,0,.6)}#sticky-main-menu .hvr-box-shadow-inset a{box-shadow:0 0 1px transparent;box-shadow:inset 0 0 0 rgba(0,0,0,.6),0 0 1px transparent}#sticky-main-menu .hvr-box-shadow-inset a:active,#sticky-main-menu .hvr-box-shadow-inset a:focus,#sticky-main-menu .hvr-box-shadow-inset a:hover{box-shadow:inset 2px 2px 2px rgba(0,0,0,.6),0 0 1px transparent}#sticky-main-menu .hvr-float-shadow a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-shadow-radial a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-bubble-top a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-bubble-top a:before{border-color:transparent transparent var(--color-3)}#sticky-main-menu .hvr-bubble-right a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-bubble-right a:before{border-color:transparent transparent transparent var(--color-3)}#sticky-main-menu .hvr-bubble-bottom a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-bubble-bottom a:before{border-color:var(--color-3) transparent transparent}#sticky-main-menu .hvr-bubble-left a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-bubble-left a:before{border-color:transparent var(--color-3) transparent transparent}#sticky-main-menu .hvr-bubble-float-top a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-bubble-float-top a:before{border-color:transparent transparent var(--color-3)}#sticky-main-menu .hvr-bubble-float-right a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-bubble-float-right a:before{border-color:transparent transparent transparent var(--color-3)}#sticky-main-menu .hvr-bubble-float-bottom a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-bubble-float-bottom a:before{border-color:var(--color-3) transparent transparent}#sticky-main-menu .hvr-bubble-float-left a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-bubble-float-left a:before{border-color:transparent var(--color-3) transparent transparent}#sticky-main-menu .hvr-icon-back a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-forward a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-down a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-up a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-spin a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-drop a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-fade a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-fade a:active .hvr-icon a,#sticky-main-menu .hvr-icon-fade a:focus .hvr-icon a,#sticky-main-menu .hvr-icon-fade a:hover .hvr-icon a{color:#0f9e5e}#sticky-main-menu .hvr-icon-float-away a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-sink-away a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-grow a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-shrink a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-pulse a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-pulse-grow a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-pulse-shrink a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-push a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-pop a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-bounce a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-rotate a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-grow-rotate a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-float a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-sink a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-bob a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-hang a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-wobble-horizontal a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-wobble-vertical a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-buzz a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-icon-buzz-out a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-curl-top-left a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-curl-top-left a:before{background-color:var(--color-3);box-shadow:1px 1px 1px rgba(0,0,0,.4)}#sticky-main-menu .hvr-curl-top-right a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-curl-top-right a:before{background-color:var(--color-3);box-shadow:-1px 1px 1px rgba(0,0,0,.4)}#sticky-main-menu .hvr-curl-bottom-right a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-curl-bottom-right a:before{background-color:var(--color-3);box-shadow:-1px -1px 1px rgba(0,0,0,.4)}#sticky-main-menu .hvr-curl-bottom-left a{box-shadow:0 0 1px transparent}#sticky-main-menu .hvr-curl-bottom-left a:before{background-color:var(--color-3);box-shadow:1px -1px 1px rgba(0,0,0,.4)}
+</style>
+<style id='active-link-color-sticky-main-inline-css' type='text/css'>
+#sticky-main-menu .current-menu-item > a,#sticky-main-menu .current-menu-ancestor > a,#sticky-main-menu .current-menu-parent > a { color: var(--color-1); }
+</style>
+<style id='menu-colors-sticky-main-inline-css' type='text/css'>
+.header-left #sticky-main-menu, .header-right #sticky-main-menu { background-color: rgba(38,38,38,0.4); }@media (min-width: 768px) {#sticky-main-menu.sm-clean ul {background-color: rgb(38,38,38);}#sticky-main-menu.sm-clean ul a, #sticky-main-menu.sm-clean ul a:hover, #sticky-main-menu.sm-clean ul a:focus, #sticky-main-menu.sm-clean ul a:active, #sticky-main-menu.sm-clean ul a.highlighted, #sticky-main-menu.sm-clean span.scroll-up, #sticky-main-menu.sm-clean span.scroll-down, #sticky-main-menu.sm-clean span.scroll-up:hover, #sticky-main-menu.sm-clean span.scroll-down:hover { background-color:rgba(38,38,38,0.4);}#sticky-main-menu.sm-clean ul { border: 1px solid rgba(38,38,38,0.4);}#sticky-main-menu.sm-clean > li > ul:before, #sticky-main-menu.sm-clean > li > ul:after { border-color: transparent transparent rgb(38,38,38) transparent;}}
+</style>
+<link rel='stylesheet' id='boldgrid-components-css' href='https://plantpv.com/wp-content/plugins/post-and-page-builder/assets/css/components.min.css?ver=2.16.5' type='text/css' media='all' />
+<link rel='stylesheet' id='boldgrid-buttons-css' href='https://plantpv.com/wp-content/themes/crio/css/buttons.css?ver=1621065499' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css' href='https://plantpv.com/wp-content/themes/crio/style.css' type='text/css' media='all' />
+<style id='style-inline-css' type='text/css'>
+.bgtfw-edit-link a{background:rgb(51, 122, 183)!important;border:2px solid #ffffff!important;color:#ffffff!important;}.bgtfw-edit-link a:focus{-webkit-box-shadow: 0 0 0 2px #ffffff!important;box-shadow: 0 0 0 2px #ffffff!important;}.bgtfw-edit-link a svg{fill:#ffffff!important;}
+</style>
+<style id='bgtfw_header_padding-bgcontrol-inline-css' type='text/css'>
+.site-header header{padding-top:0em;padding-right:0em;padding-bottom:0.5em;padding-left:0em;}
+</style>
+<style id='bgtfw_header_border-bgcontrol-inline-css' type='text/css'>
+.site-header header{border: 0;border-color:var(--color-3);;}
+</style>
+<style id='bgtfw_blog_margin-bgcontrol-inline-css' type='text/css'>
+.palette-primary.archive .post, .palette-primary.blog .post { margin-top:0em;margin-bottom:3em; }
+</style>
+<style id='boldgrid-override-styles-inline-css' type='text/css'>
+blockquote, blockquote p, .mod-blockquote {font-size:18.75px;}h1, .h1{font-size:49px;}h2, .h2{font-size:40px;}h3, .h3{font-size:33px;}h4, .h4{font-size:24px;}h5, .h5{font-size:19px;}h6, .h6{font-size:17px;}.bgc-heading.bgc-page-title{font-size:19px;} h1, .h1,  h2, .h2,  h3, .h3,  h4, .h4,  h5, .h5,  h6, .h6,  .bgc-heading.bgc-page-title{color:var(--color-2);}.bg-font-family-menu { font-family: Roboto !important }.bg-font-family-body { font-family: "Open Sans" !important }.bg-font-family-heading { font-family: Oswald !important }.bg-font-family-site-title { font-family: Pacifico !important }.bg-font-family-tagline { font-family: Oswald !important }.bg-font-family-menu-main { font-family: "Open Sans" !important }.bg-font-family-menu-secondary { font-family: Roboto !important }.bg-font-family-menu-tertiary { font-family: Roboto !important }.bg-font-family-menu-quaternary { font-family: Roboto !important }.bg-font-family-menu-social { font-family: "Open Sans" !important }.bg-font-family-menu-footer-social { font-family: Roboto !important }.bg-font-family-menu-sticky-main { font-family: Roboto !important }.bg-font-family-menu-sticky-secondary { font-family: Roboto !important }.bg-font-family-menu-sticky-tertiary { font-family: Roboto !important }.bg-font-family-menu-sticky-quaternary { font-family: Roboto !important }.bg-font-family-menu-sticky-social { font-family: Roboto !important }.bg-font-family-menu-main { font-family: "Open Sans" !important }.bg-font-family-menu-secondary { font-family: Roboto !important }.bg-font-family-menu-tertiary { font-family: Roboto !important }.bg-font-family-menu-quaternary { font-family: Roboto !important }.bg-font-family-menu-social { font-family: "Open Sans" !important }.bg-font-family-menu-footer-social { font-family: Roboto !important }.bg-font-family-menu-sticky-main { font-family: Roboto !important }.bg-font-family-menu-sticky-secondary { font-family: Roboto !important }.bg-font-family-menu-sticky-tertiary { font-family: Roboto !important }.bg-font-family-menu-sticky-quaternary { font-family: Roboto !important }.bg-font-family-menu-sticky-social { font-family: Roboto !important }
+</style>
+<style id='bgtfw-background-inline-css' type='text/css'>
+body.custom-background {background-attachment: fixed;background-size: cover;background-repeat: no-repeat;
+</style>
+<style id='boldgrid-kirki-override-inline-css' type='text/css'>
+.single .entry-footer .tags-links{display:block;}.single .entry-footer .tags-links .fa{display:inline-block;}.single .entry-footer .cat-links{display:block;}.single .entry-footer .cat-links .fa{display:inline-block;}.single .post-navigation{display:flex;}h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .bgc-heading.bgc-page-title{font-family:Oswald;line-height:1.1;text-transform:uppercase;font-weight:500;}.site-branding .site-description, .bgc-tagline{font-family:Oswald;font-size:18px;font-weight:400;line-height:1.1;text-transform:lowercase;}.palette-primary.site-header .site-title > a, .palette-primary .site-header .site-title > a,.palette-primary .site-header .site-title > a:hover, .bgc-site-title, .bgc-site-title:hover{font-family:Pacifico;font-weight:400;text-transform:none;}.widget, .site-content, .attribution-theme-mods-wrapper, .gutenberg .edit-post-visual-editor, .mce-content-body, .template-header{font-family:"Open Sans";font-size:15px;font-weight:400;line-height:1.4;text-transform:none;}.page-header{text-align:center;}#main-menu li a, .mce-content-body .sm-clean{font-family:"Open Sans";font-size:14px;font-weight:400;line-height:1.5;text-transform:uppercase;}.blog .post .entry-header .entry-title, .archive .post .entry-header .entry-title{display:inherit;text-align:left;}.blog .post .entry-header .entry-meta, .archive .post .entry-header .entry-meta{display:inline-block;text-align:left;}.blog .post .entry-header .entry-meta .posted-on, .archive .post .entry-header .entry-meta .posted-on{display:inherit;}.blog .post .entry-header .entry-meta .byline, .archive .post .entry-header .entry-meta .byline{display:inherit;}.blog .post.has-post-thumbnail .entry-header.above .featured-imgage-header, .archive .post.has-post-thumbnail .entry-header.above .featured-imgage-header, .blog .post.has-post-thumbnail .entry-header.below .featured-imgage-header, .archive .post.has-post-thumbnail .entry-header.below .featured-imgage-header{height:20em;width:100%;}.blog .post .entry-footer .tags-links, .archive .post .entry-footer .tags-links{display:none;}.blog .post .entry-footer .cat-links, .archive .post .entry-footer .cat-links{display:none;}.blog .post .entry-footer .comments-link, .archive .post .entry-footer .comments-link{display:none;}.read-more{text-align:left;}.single .entry-header .entry-meta{display:inline-block;text-align:left;}.single .entry-header .entry-meta .posted-on{display:inherit;}.single .entry-header .entry-meta .byline{display:inherit;}#secondary-menu li a, .mce-content-body .sm-clean{font-family:Roboto;font-size:16px;font-weight:400;line-height:1.5;text-transform:none;}#tertiary-menu li a, .mce-content-body .sm-clean{font-family:Roboto;font-size:16px;font-weight:400;line-height:1.5;text-transform:none;}#quaternary-menu li a, .mce-content-body .sm-clean{font-family:Roboto;font-size:16px;font-weight:400;line-height:1.5;text-transform:none;}#social-menu li a, .mce-content-body .sm-clean{font-family:"Open Sans";font-size:15px;font-weight:400;line-height:1.5;text-transform:uppercase;}#footer-social-menu li a, .mce-content-body .sm-clean{font-family:Roboto;font-size:16px;font-weight:400;line-height:1.5;text-transform:none;}#sticky-main-menu li a, .mce-content-body .sm-clean{font-family:Roboto;font-size:16px;font-weight:400;line-height:1.5;text-transform:none;}#sticky-secondary-menu li a, .mce-content-body .sm-clean{font-family:Roboto;font-size:16px;font-weight:400;line-height:1.5;text-transform:none;}#sticky-tertiary-menu li a, .mce-content-body .sm-clean{font-family:Roboto;font-size:16px;font-weight:400;line-height:1.5;text-transform:none;}#sticky-quaternary-menu li a, .mce-content-body .sm-clean{font-family:Roboto;font-size:16px;font-weight:400;line-height:1.5;text-transform:none;}#sticky-social-menu li a, .mce-content-body .sm-clean{font-family:Roboto;font-size:16px;font-weight:400;line-height:1.5;text-transform:none;}
+</style>
+<link rel='stylesheet' id='boldgrid-color-palettes-css' href='https://plantpv.com/wp-content/themes/crio/css/color-palettes.css?ver=1621065499' type='text/css' media='all' />
+<link rel='stylesheet' id='animatecss-css' href='https://plantpv.com/wp-content/plugins/post-and-page-builder/assets/css/animate.min.css?ver=1.23.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bgpbpp-public-css' href='https://plantpv.com/wp-content/plugins/post-and-page-builder-premium/dist/application.min.css?ver=1.0.5' type='text/css' media='all' />
+<script type="text/javascript" src="https://plantpv.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://plantpv.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="crio-premium-js-extra">
+/* <![CDATA[ */
+var CrioPremium = {"hasHeaderTemplate":"","headerBackground":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://plantpv.com/wp-content/plugins/crio-premium/public/js/crio-premium-public.js?ver=1.3.0" id="crio-premium-js"></script>
+<script type="text/javascript" id="boldgrid-front-end-scripts-js-extra">
+/* <![CDATA[ */
+var BGTFW = BGTFW || {}; BGTFW.assets = BGTFW.assets || {}; BGTFW.assets.path = ["https:\/\/plantpv.com\/wp-content\/themes\/crio\/inc\/boldgrid-theme-framework\/"];
+var highlightRequiredFields = ["yes"];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://plantpv.com/wp-content/themes/crio/inc/boldgrid-theme-framework/assets/js/front-end.min.js?ver=2.7.1" id="boldgrid-front-end-scripts-js"></script>
+<script type="text/javascript" id="boldgrid-wow-js-js-extra">
+/* <![CDATA[ */
+var _wowJsOptions = {"enabled":false,"boxClass":"wow","animateClass":"animated","offset":-200,"mobile":true,"live":true};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://plantpv.com/wp-content/themes/crio/inc/boldgrid-theme-framework/assets/js/wow/wow.min.js?ver=2.7.1" id="boldgrid-wow-js-js"></script>
+<script type="text/javascript" id="boldgrid-goup-js-js-extra">
+/* <![CDATA[ */
+var _goupOptions = {"enabled":true,"location":"right","locationOffset":30,"bottomOffset":30,"containerSize":40,"containerRadius":4,"containerClass":"goup-container color1-background-color color-1-text-contrast","arrowClass":"goup-arrow","containerColor":"#000","arrowColor":false,"trigger":500,"entryAnimation":"fade","alwaysVisible":false,"goupSpeed":"slow","hideUnderWidth":500,"title":"","titleAsText":false,"titleAsTextClass":"goup-text","zIndex":1};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://plantpv.com/wp-content/themes/crio/inc/boldgrid-theme-framework/assets/js/goup/jquery.goup.js?ver=2.7.1" id="boldgrid-goup-js-js"></script>
+<link rel="https://api.w.org/" href="https://plantpv.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://plantpv.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.2" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style id="kirki-inline-styles">.single .entry-footer .tags-links{display:block;}.single .entry-footer .tags-links .fa{display:inline-block;}.single .entry-footer .cat-links{display:block;}.single .entry-footer .cat-links .fa{display:inline-block;}.single .post-navigation{display:flex;}h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .bgc-heading.bgc-page-title{font-family:Oswald;line-height:1.1;text-transform:uppercase;font-weight:500;}.site-branding .site-description, .bgc-tagline{font-family:Oswald;font-size:18px;font-weight:400;line-height:1.1;text-transform:lowercase;}.palette-primary.site-header .site-title > a, .palette-primary .site-header .site-title > a,.palette-primary .site-header .site-title > a:hover, .bgc-site-title, .bgc-site-title:hover{font-family:Pacifico;font-weight:400;text-transform:none;}.widget, .site-content, .attribution-theme-mods-wrapper, .gutenberg .edit-post-visual-editor, .mce-content-body, .template-header{font-family:Open Sans;font-size:15px;font-weight:400;line-height:1.4;text-transform:none;}.page-header{text-align:center;}#main-menu li a, .mce-content-body .sm-clean{font-family:Open Sans;font-size:14px;font-weight:400;line-height:1.5;text-transform:uppercase;}.blog .post .entry-header .entry-title, .archive .post .entry-header .entry-title{display:inherit;text-align:left;}.blog .post .entry-header .entry-meta, .archive .post .entry-header .entry-meta{display:inline-block;text-align:left;}.blog .post .entry-header .entry-meta .posted-on, .archive .post .entry-header .entry-meta .posted-on{display:inherit;}.blog .post .entry-header .entry-meta .byline, .archive .post .entry-header .entry-meta .byline{display:inherit;}.blog .post.has-post-thumbnail .entry-header.above .featured-imgage-header, .archive .post.has-post-thumbnail .entry-header.above .featured-imgage-header, .blog .post.has-post-thumbnail .entry-header.below .featured-imgage-header, .archive .post.has-post-thumbnail .entry-header.below .featured-imgage-header{height:20em;width:100%;}.blog .post .entry-footer .tags-links, .archive .post .entry-footer .tags-links{display:none;}.blog .post .entry-footer .cat-links, .archive .post .entry-footer .cat-links{display:none;}.blog .post .entry-footer .comments-link, .archive .post .entry-footer .comments-link{display:none;}.read-more{text-align:left;}.single .entry-header .entry-meta{display:inline-block;text-align:left;}.single .entry-header .entry-meta .posted-on{display:inherit;}.single .entry-header .entry-meta .byline{display:inherit;}#secondary-menu li a, .mce-content-body .sm-clean{font-family:Roboto;font-size:16px;font-weight:400;line-height:1.5;text-transform:none;}#tertiary-menu li a, .mce-content-body .sm-clean{font-family:Roboto;font-size:16px;font-weight:400;line-height:1.5;text-transform:none;}#quaternary-menu li a, .mce-content-body .sm-clean{font-family:Roboto;font-size:16px;font-weight:400;line-height:1.5;text-transform:none;}#social-menu li a, .mce-content-body .sm-clean{font-family:Open Sans;font-size:15px;font-weight:400;line-height:1.5;text-transform:uppercase;}#footer-social-menu li a, .mce-content-body .sm-clean{font-family:Roboto;font-size:16px;font-weight:400;line-height:1.5;text-transform:none;}#sticky-main-menu li a, .mce-content-body .sm-clean{font-family:Roboto;font-size:16px;font-weight:400;line-height:1.5;text-transform:none;}#sticky-secondary-menu li a, .mce-content-body .sm-clean{font-family:Roboto;font-size:16px;font-weight:400;line-height:1.5;text-transform:none;}#sticky-tertiary-menu li a, .mce-content-body .sm-clean{font-family:Roboto;font-size:16px;font-weight:400;line-height:1.5;text-transform:none;}#sticky-quaternary-menu li a, .mce-content-body .sm-clean{font-family:Roboto;font-size:16px;font-weight:400;line-height:1.5;text-transform:none;}#sticky-social-menu li a, .mce-content-body .sm-clean{font-family:Roboto;font-size:16px;font-weight:400;line-height:1.5;text-transform:none;}/* cyrillic-ext */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/oswald/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUtiYySUhiCnAxTV.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/oswald/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUJiYySUhiCnAxTV.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/oswald/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUliYySUhiCnAxTV.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/oswald/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUhiYySUhiCnAxTV.woff) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/oswald/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYySUhiCnAw.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/oswald/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUtiYySUhiCnAxTV.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/oswald/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUJiYySUhiCnAxTV.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/oswald/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUliYySUhiCnAxTV.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/oswald/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUhiYySUhiCnAxTV.woff) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/oswald/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYySUhiCnAw.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic-ext */
+@font-face {
+  font-family: 'Pacifico';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/pacifico/FwZY7-Qmy14u9lezJ-6K6M-Bp0u-zK4.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Pacifico';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/pacifico/FwZY7-Qmy14u9lezJ-6D6M-Bp0u-zK4.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Pacifico';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/pacifico/FwZY7-Qmy14u9lezJ-6I6M-Bp0u-zK4.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Pacifico';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/pacifico/FwZY7-Qmy14u9lezJ-6J6M-Bp0u-zK4.woff) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Pacifico';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/pacifico/FwZY7-Qmy14u9lezJ-6H6M-Bp0u-.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4taVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4kaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4saVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4jaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4iaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0307-0308, U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* math */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B5caVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B5OaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4vaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQXjM.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmZiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmQiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmYiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmXiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* math */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVnoiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVn6iAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmbiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmaiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://plantpv.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiAz0klQm_20.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style><style id="wpforms-css-vars-root">
+				:root {
+					--wpforms-field-border-radius: 3px;
+--wpforms-field-background-color: #ffffff;
+--wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+--wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+--wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+--wpforms-label-error-color: #d63637;
+--wpforms-button-border-radius: 3px;
+--wpforms-button-background-color: #066aab;
+--wpforms-button-text-color: #ffffff;
+--wpforms-field-size-input-height: 43px;
+--wpforms-field-size-input-spacing: 15px;
+--wpforms-field-size-font-size: 16px;
+--wpforms-field-size-line-height: 19px;
+--wpforms-field-size-padding-h: 14px;
+--wpforms-field-size-checkbox-size: 16px;
+--wpforms-field-size-sublabel-spacing: 5px;
+--wpforms-field-size-icon-size: 1;
+--wpforms-label-size-font-size: 16px;
+--wpforms-label-size-line-height: 19px;
+--wpforms-label-size-sublabel-font-size: 14px;
+--wpforms-label-size-sublabel-line-height: 17px;
+--wpforms-button-size-font-size: 17px;
+--wpforms-button-size-height: 41px;
+--wpforms-button-size-padding-h: 15px;
+--wpforms-button-size-margin-top: 10px;
+
+				}
+			</style></head>
+	<body class="error404 wp-custom-logo wp-theme-crio boldgrid-ppb sticky-footer-enabled wow-js-enabled goup-enabled standard-menu-enabled bgtfw-edit-links-shown custom-header has-video-header header-top  color-neutral-background-color color-neutral-text-default page-title-above palette-primary custom-background">
+				<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+					<div id="boldgrid-sticky-wrap">
+				<div class="bgtfw-header site-header">
+						<header id="masthead" class="header color-neutral-background-color color-neutral-text-default" role="banner" >
+		<div class="custom-header-media">
+			</div>
+	<div class="boldgrid-section default-preset"><div class="container"><div class="row"><div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 h49 w">		<div class="site-branding w">
+							<a href="https://plantpv.com/" class="custom-logo-link" rel="home"><img width="2560" height="861" src="https://plantpv.com/wp-content/uploads/2021/05/cropped-cropped-PLANT-PV-Sign-300dpi-paint-scaled-1.jpg" class="custom-logo" alt="" decoding="async" fetchpriority="high" srcset="https://plantpv.com/wp-content/uploads/2021/05/cropped-cropped-PLANT-PV-Sign-300dpi-paint-scaled-1.jpg 2560w, https://plantpv.com/wp-content/uploads/2021/05/cropped-cropped-PLANT-PV-Sign-300dpi-paint-scaled-1-300x101.jpg 300w, https://plantpv.com/wp-content/uploads/2021/05/cropped-cropped-PLANT-PV-Sign-300dpi-paint-scaled-1-1024x344.jpg 1024w, https://plantpv.com/wp-content/uploads/2021/05/cropped-cropped-PLANT-PV-Sign-300dpi-paint-scaled-1-768x258.jpg 768w, https://plantpv.com/wp-content/uploads/2021/05/cropped-cropped-PLANT-PV-Sign-300dpi-paint-scaled-1-1536x517.jpg 1536w, https://plantpv.com/wp-content/uploads/2021/05/cropped-cropped-PLANT-PV-Sign-300dpi-paint-scaled-1-2048x689.jpg 2048w, https://plantpv.com/wp-content/uploads/2021/05/cropped-cropped-PLANT-PV-Sign-300dpi-paint-scaled-1-250x84.jpg 250w, https://plantpv.com/wp-content/uploads/2021/05/cropped-cropped-PLANT-PV-Sign-300dpi-paint-scaled-1-550x185.jpg 550w, https://plantpv.com/wp-content/uploads/2021/05/cropped-cropped-PLANT-PV-Sign-300dpi-paint-scaled-1-800x269.jpg 800w, https://plantpv.com/wp-content/uploads/2021/05/cropped-cropped-PLANT-PV-Sign-300dpi-paint-scaled-1-535x180.jpg 535w, https://plantpv.com/wp-content/uploads/2021/05/cropped-cropped-PLANT-PV-Sign-300dpi-paint-scaled-1-892x300.jpg 892w, https://plantpv.com/wp-content/uploads/2021/05/cropped-cropped-PLANT-PV-Sign-300dpi-paint-scaled-1-1487x500.jpg 1487w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>						<p class="site-title color-neutral-color"><a href="https://plantpv.com/" rel="home"></a></p>			<h3 class="site-description alt-font color2-colorsite-description invisible"></h3>		</div><!-- .site-branding -->
+		</div><div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 h1029 e"><div id="social-wrap" class="bgtfw-menu-wrap flex-row e">		<input id="social-menu-state" type="checkbox" class="hidden" />
+		<label id="social-menu-btn" class="social-menu-btn" for="social-menu-state">
+			<div id="social-menu-hamburger" class="hamburger hamburger--collapse hidden">
+				<span class="hamburger-box">
+					<span class="hamburger-inner"></span>
+				</span>
+			</div>
+			<span class="screen-reader-text">Toggle menu visibility.</span>
+		</label>
+		</div></div></div></div></div><div class="boldgrid-section default-preset"><div class="container"><div class="row"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 h1030 e"><div id="main-wrap" class="bgtfw-menu-wrap flex-row e">		<input id="main-menu-state" type="checkbox" class="" />
+		<label id="main-menu-btn" class="main-menu-btn" for="main-menu-state">
+			<div id="main-menu-hamburger" class="hamburger hamburger--collapse ">
+				<span class="hamburger-box">
+					<span class="hamburger-inner"></span>
+				</span>
+			</div>
+			<span class="screen-reader-text">Toggle menu visibility.</span>
+		</label>
+		</div></div></div></div></div>	</header><!-- #masthead -->
+			</div><!-- /.header -->
+							
+				<div id="content" class="site-content" role="document">
+																		<div id="main-wrapper" class="main-wrapper full-width">
+				<main class="main">
+
+															
+<div class="text-center">
+	<h1>404: Page Not Found.</h1>
+		<p>The page you requested could not be found.</p>
+	<div class="row">
+		<div class="col-md-12">
+			
+		<form method="get" id="searchform" action="https://plantpv.com/" role="search" class="form-inline">
+			<div class="form-group">
+				<input type="text" class="form-control" name="s" value="" id="s" placeholder="Search &hellip;" />
+			</div>
+			<button type="submit" class="button-primary"><span class="fa fa-search"></span><span>&nbsp;Search</span></button>
+		</form>
+
+			</div>
+	</div>
+	
+	<div class="row">
+							<div class="col-md-12 search-pages">
+				<h3>Page Sitemap</h3>
+				<ul class="list-group">
+					<li class="list-group-item"><a href="https://plantpv.com/">Home</a></li>				</ul>
+			</div> <!-- .search-pages -->
+			</div> <!-- .row -->
+</div>
+									</main><!-- /.main -->
+							</div>
+		</div><!-- /.content -->
+							</div><!-- End of #boldgrid-sticky-wrap -->
+						<footer id="colophon" class="site-footer  color-neutral-background-color color-neutral-text-default" role="contentinfo" >
+		<div class="bgtfw-footer footer-content color-neutral-background-color color-neutral-text-default color-1-link-color">
+		<div class="boldgrid-section default-preset"><div class="container"><div class="row"><div class="col-md-12 col-sm-12 col-xs-12 f44">		<div class="attribution-theme-mods-wrapper">
+					<span class="attribution-theme-mods flex-row w c"><span class="link boldgrid-attribution-link">Built with <a href="http://boldgrid.com/" rel="nofollow" target="_blank">BoldGrid</a></span><span class="link host-attribution-link">Powered By <a href="https://www.dreamhost.com/" rel="nofollow">DreamHost</a></span><span class="link special-thanks-attribution-link"><a href="https://plantpv.com/attribution/">Special Thanks</a></span></span>
+		</div>
+		</div></div></div></div>	</div>
+	</footer><!-- #colophon -->
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/crio\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" id="boldgrid-custom-js"></script><script type="text/javascript" src="https://plantpv.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" src="https://plantpv.com/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script type="text/javascript" src="https://plantpv.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b" id="jquery-masonry-js"></script>
+<script type="text/javascript" src="https://plantpv.com/wp-content/themes/crio/inc/boldgrid-theme-framework/assets/js/boldgrid-bootstrap-shim.min.js?ver=2.7.1" id="bootstrap-scripts-js"></script>
+<script type="text/javascript" src="https://plantpv.com/wp-content/themes/crio/inc/boldgrid-theme-framework/assets/js/bootstrap/bootstrap.min.js?ver=3.3.6" id="boldgrid-bootstrap-bootstrap-js"></script>
+<script type="text/javascript" src="https://plantpv.com/wp-content/themes/crio/inc/boldgrid-theme-framework/assets/js/smartmenus/jquery.smartmenus.min.js?ver=1.4" id="bgtfw-smartmenus-js"></script>
+<script type="text/javascript" src="https://plantpv.com/wp-content/themes/crio/inc/boldgrid-theme-framework/assets/js/modernizr.min.js?ver=2.7.1" id="bgtfw-modernizr-js"></script>
+<script type="text/javascript" src="https://plantpv.com/wp-content/themes/crio/inc/boldgrid-theme-framework/assets/js/float-labels.js/float-labels.min.js?ver=2.7.1" id="float-labels-js"></script>
+<script type="text/javascript" src="https://plantpv.com/wp-content/plugins/post-and-page-builder/assets/js/jquery-stellar/jquery.stellar.js?ver=1.23.0" id="boldgrid-parallax-js"></script>
+<script type="text/javascript" id="boldgrid-editor-public-js-extra">
+/* <![CDATA[ */
+var BoldgridEditorPublic = {"is_boldgrid_theme":"1","colors":{"defaults":["rgb(51, 122, 183)","rgb(51, 51, 51)","rgb(255, 255, 255)","rgb(51, 122, 183)","rgb(51, 51, 51)"],"neutral":"rgb(255, 255, 255)"},"theme":"Crio"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://plantpv.com/wp-content/plugins/post-and-page-builder/assets/dist/public.min.js?ver=1.23.0" id="boldgrid-editor-public-js"></script>
+<script type="text/javascript" src="https://plantpv.com/wp-content/plugins/post-and-page-builder-premium/dist/application.min.js?ver=1.0.5" id="bgpbpp-public-js"></script>
+			</body>
+				</html>
