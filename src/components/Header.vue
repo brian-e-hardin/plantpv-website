@@ -2,7 +2,7 @@
   <header class="header">
     <div class="container">
       <div class="logo">
-        <h1>Plant PV</h1>
+        <img src="/plant-pv-logo.jpg" alt="Plant PV" class="logo-image" />
       </div>
     </div>
   </header>
@@ -21,16 +21,20 @@
   z-index: 100;
 }
 
-.logo h1 {
-  color: var(--primary-blue);
-  font-size: 2rem;
-  font-weight: 700;
+.logo {
   text-align: center;
 }
 
+.logo-image {
+  height: 60px;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+}
+
 @media (max-width: 768px) {
-  .logo h1 {
-    font-size: 1.5rem;
+  .logo-image {
+    height: 45px;
   }
 }
 </style>
