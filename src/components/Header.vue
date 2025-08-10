@@ -1,16 +1,14 @@
 <template>
   <header class="site-header">
     <div class="container">
-      <div class="header-content">
-        <div class="site-branding">
-          <a href="#" class="custom-logo-link">
-            <img 
-              src="/plant-pv-logo.jpg" 
-              alt="Plant PV" 
-              class="custom-logo"
-            />
-          </a>
-        </div>
+      <div class="site-branding">
+        <a href="#" class="custom-logo-link">
+          <img 
+            src="/logo.jpg" 
+            alt="Plant PV - New Materials for Photovoltaic Cells" 
+            class="custom-logo"
+          />
+        </a>
       </div>
     </div>
   </header>
@@ -22,14 +20,13 @@
 <style scoped>
 .site-header {
   background: #fff;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   padding: 1rem 0;
 }
 
-.header-content {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 15px;
 }
 
 .site-branding {
@@ -42,14 +39,19 @@
 
 .custom-logo {
   height: auto;
-  max-width: 100%;
+  max-width: 400px;
   width: auto;
-  max-height: 80px;
 }
 
 @media (max-width: 768px) {
   .custom-logo {
-    max-height: 60px;
+    max-width: 300px;
+  }
+}
+
+@media (max-width: 480px) {
+  .custom-logo {
+    max-width: 250px;
   }
 }
 </style>
